@@ -1,0 +1,28 @@
+# Ignore the .vscode directory
+.vscode/
+
+# Ignore the build directory
+build/
+
+# Ignore the helloworld executable
+helloworld
+
+#ignore SQL
+SQL/
+#these are bingary files or machine files
+classPerson
+classStudent
+fileHandling
+polymorphism
+sortingAndSearching
+structure
+switchStatement
+class_object
+namespace
+#this is a commond text file
+example.txt
+#my calendar
+my_calendar.ics
+my_updated_calendar.ics
+
+
